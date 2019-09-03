@@ -1,5 +1,5 @@
 # 概要
-* <a href="https://qotb26xu9ecnlzqyisiybq-on.drv.tw/www/2048WebPlayer/2048WebPlayer.html" target="_blank">遊戲連結 WebPlayer (IE 啟用ActiveX)</a>
+* <a href="https://qotb26xu9ecnlzqyisiybq-on.drv.tw/www/2048WebPlayer/2048WebPlayer.html" target="_blank">連結：2048 WebPlayer (IE 啟用ActiveX)</a>
 * <a href="https://youtu.be/oN2cKORYqec" target="_blank">連結：YouTube影片</a>
 * 展示用2048遊戲
 * 製作時間約12hr
