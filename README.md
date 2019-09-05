@@ -1,6 +1,7 @@
 # 概要
-* <a href="https://qotb26xu9ecnlzqyisiybq-on.drv.tw/www/2048WebPlayer/2048WebPlayer.html" target="_blank">連結：2048 WebPlayer (IE 啟用ActiveX)</a>
-* <a href="https://youtu.be/oN2cKORYqec" target="_blank">連結：YouTube影片</a>
+* [連結：2048 WebGL](https://juicefish.github.io/2048WebGL/index.html)
+* [連結：2048 WebPlayer](https://juicefish.github.io/2048WebPlayer/2048WebPlayer.html)
+* [連結：YouTube影片](https://youtu.be/oN2cKORYqec)
 * 展示用2048遊戲
 * 製作時間約12hr
 
